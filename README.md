@@ -53,8 +53,8 @@ Follow these steps to run the code and reproduce the results:
 ### **1. Clone the Repository**
 Clone the repository to your local machine:
 ```bash
-git clone <repository_url>
-cd lines_extraction_project
+git clone https://github.com/Ahmed-Ezzat20/EgyptianID_Handler.git
+cd EgyptianID_Handler
 ```
 
 ### **2. Place Input Images**
